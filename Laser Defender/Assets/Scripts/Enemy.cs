@@ -3,7 +3,7 @@ using System.Collections.Generic;
 using UnityEngine;
 
 public class Enemy : MonoBehaviour {
-
+    /*added a comment*/
     [Header("Enemy Stats")]
     [SerializeField] float health = 100;
     [SerializeField] int scoreValue = 150;
